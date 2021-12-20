@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="temp_slider_values">
+        <item>-10.0</item>
+        <item>60.0</item>
+    </array>
+    <array name="humi_slider_values">
+        <item>0.0</item>
+        <item>100.0</item>
+    </array>
+    <array name="mois_slider_values">
+        <item>0.0</item>
+        <item>100.0</item>
+    </array>
+</resources>

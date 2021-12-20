@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750142976011",
+    "firebase_url": "https://plantwatchdog-feaca-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "plantwatchdog-feaca",
+    "storage_bucket": "plantwatchdog-feaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750142976011:android:9e9cfc0995e0a13bd5570e",
+        "android_client_info": {
+          "package_name": "ch.mseengineering.plantwatchdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750142976011-oq3nich15jv2svcda5ndsf2hu1gr26f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1Ghaql-Pg4YA9ze_b-eaczau9qDtRPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750142976011-oq3nich15jv2svcda5ndsf2hu1gr26f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

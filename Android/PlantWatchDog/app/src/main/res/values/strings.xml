@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Plant WatchDog</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_settings">Settings</string>
+    <string name="bleButtonDescription">Scan for a list of Plant WatchDogs.</string>
+    <string name="connect_button_text">Scan for Plant WatchDogs</string>
+    <string name="connect_button_scanning_text">Scanning for Plant WatchDogs</string>
+    <string name="no_bluetooth">Device does not support bluetooth.</string>
+    <string name="bluetooth_not_enabled">Bluetooth was not enabled. Cannot connect to Plant WatchDog.</string>
+    <string name="fine_location_denied">Permission denied. Cannot connect for Plant WatchDog.</string>
+    <string name="plant_image_view">Picture of the plant that WatchDog is observing.</string>
+    <string name="plant_camera_error">Image could not be taken.</string>
+    <string name="camera_button_text">Camera</string>
+    <string name="gallery_button_text">Gallery</string>
+    <string name="uri_empty_error">The provided uri was empty.</string>
+    <string name="plant_gallery_error">Could not load image from the gallery.</string>
+    <string name="firebase_read_error">Could not read the requested value from the database.</string>
+    <string name="no_data_text">No Data</string>
+    <string name="temperature_range_text">Temperature Range</string>
+    <string name="humidity_range_text">Humidity Range</string>
+    <string name="moisture_range_text">Moisture Range</string>
+    <string name="submit_settings_text">Submit Settings</string>
+    <string name="logout_text">Logout</string>
+    <string name="connection_text_not_connected">NO PLANT WATCHDOG CONNECTED</string>
+    <string name="connection_text_connected">PLANT WATCHDOG CONNECTED</string>
+    <string name="disconnect_watchdog_button">Disconnect Plant WatchDog</string>
+</resources>
